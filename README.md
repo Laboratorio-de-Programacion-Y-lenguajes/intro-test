@@ -1,11 +1,7 @@
-# TP2 · IF009 · Introducción a Tests Unitarios con pytest
+# TP2 · Introducción a Tests Unitarios con pytest
 
-**Materia**: Laboratorio de Programación y Lenguajes (IF009)  
-**Año**: 3er año — Licenciatura en Sistemas, UNTDF  
-**Docentes**: Matías Gel (Profesor), Iván D'Úva (Auxiliar)  
-**Semana**: 3  
-**Stack**: Python 3.13+, pytest, pytest-cov, Git/GitHub Classroom  
-**Duración estimada**: 8–12 horas
+**Stack**: Python 3.13+, `pytest`, pytest-cov, Git/GitHub Classroom (autograding)  
+**Entrega**: código en el repositorio asignado (push a `main`). Los tests se ejecutan automáticamente.
 
 ---
 
